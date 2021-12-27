@@ -1,0 +1,1 @@
+code . runs vscode in the current directory
